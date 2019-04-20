@@ -1,0 +1,8 @@
+
+bpy == 1.2.3
+
+matplotlib == 2.1.2
+
+numpy == 1.13.1
+
+scipy == 1.1.0
